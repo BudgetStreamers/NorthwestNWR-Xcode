@@ -1,0 +1,208 @@
+{
+    "station":
+    [
+     {
+     "name": "Idaho: WXK68 Boise, ID",
+     "streamURL": "http://66.193.105.58:8012/stream",
+     "imageURL": "noaa.png",
+     "desc": "NOAA Weather Radio",
+     "longDesc": "COVERAGE IN IDAHO: Ada, Adams, Boise, Canyon, Elmore, Gem, Owyhee, Payette, Valley, and Washington. COVERAGE IN OREGON: Malheur County. EAS CRITERIA: TOR, TOA, SVR, SVA, FFW, AVW, and RMT."
+     },
+     {
+     "name": "Idaho: KPS509 Salmon, ID",
+     "streamURL": "http://66.193.105.58:8014/stream",
+     "imageURL": "noaa.png",
+     "desc": "NOAA Weather Radio",
+     "longDesc": "COVERAGE IN IDAHO: Lemhi County. EAS CRITERIA: TOR, TOA, SVR, SVA, and FFW."
+     },
+     {
+     "name": "Montana: KEWF Billings, MT (WXL27)",
+     "streamURL": "http://benedettimedia.com:8000/KEWFFMM",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN MONTANA: Big Horn, Carbon, Golden Valley, Musselshell, Stillwater, Sweet Grass, Wheatland, and Yellowstone. EAS CRITERIA: TOR, SVR, and FFW"
+     },
+     {
+     "name": "Montana: KBOW Butte, MT (WXL79)",
+     "streamURL": "http://butte.leanstream.co/KBOWAM-MP3",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN MONTANA: Beaverhead, Deer Lodge, Gallatin, Granite, Jefferson, Madison, Powell, and Silver Bow. EAS CRITERIA: TOR, SVR, and FFW"
+     },
+     {
+     "name": "Montana: KMPT Missoula, MT (WXL25)",
+     "streamURL": "http://54.196.154.68/townsquare-kmptamaac-ibc3",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN MONTANA: Granite, Mineral, Missoula, Ravalli, and Sanders. EAS CRITERIA: TOR, SVR, and FFW. NOTE: Delay up to 15 Minutes."
+     },
+     {
+     "name": "Montana: KVVR Great Falls, MT (WXJ43)",
+     "streamURL": "http://ice10.securenetsystems.net:80/KVVRFM",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN MONTANA: Cascade, Chouteau, Judith, Basin, and Teton. EAS CRITERIA: TOR, SVR, and FFW."
+     },
+     {
+     "name": "Montana: KLAN Glasgow, MT (WXL42)",
+     "streamURL": "http://ice6.securenetsystems.net:80/MIX93",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN MONTANA: North/East Garfield, Northwest/North/West McCone, Northwest/West/Southwest Roosevelt, and All of Valley. EAS CRITERIA: TOR, TOA, SVR, SVA, FFW, and CAE."
+     },
+     {
+     "name": "Montana: KYUS Miles City, MT (WXL54)",
+     "streamURL": "http://ice6.securenetsystems.net/KYUS?&playSessionID=50342EC5-9F7C-CCC9-92CB8EDCDA3007CA",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN MONTANA: Carter, Custer, McCone, Powder River, Prairie, Rosebud, and Treasure. EAS CRITERIA: TOR, SVR, and FFW."
+     },
+     {
+     "name": "Washington: KORD (WWF56)",
+     "streamURL": "http://54.196.154.68/townsquare-kordfmaac-ibc3?session-id=7a50add38073027af03c3a48ee748097",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Benton, Columbia, Franklin, and Walla Walla. EAS CRITERIA: TOR, SVR, FFW, CAE, TOE, and RMT."
+     },
+     {
+     "name": "Washington: KIOK (WWF56)",
+     "streamURL": "http://ice6.securenetsystems.net:80/KIOK",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Benton, Columbia, Franklin, and Walla Walla. EAS CRITERIA: TOR, SVR, FFW, CAE, TOE, and RMT."
+     },
+     {
+     "name": "Washington: KWHT (WWF56)",
+     "streamURL": "http://18743.live.streamtheworld.com:80/KWHTFM_SC",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Benton, Columbia, Franklin, and Walla Walla. EAS CRITERIA: TOR, SVR, FFW, CAE, and RMT."
+     },
+     {
+     "name": "Washington: KUTI Yakima, WA (KIG75)",
+     "streamURL": "http://54.196.154.68/townsquare-kutiamaac-ibc3?session-id=fe4c1ca19ba8fa15785f74da51ecddf6",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Kittitas and Yakima. EAS CRITERIA: TOR, SVR, FFW, CAE, and RMT."
+     },
+     {
+     "name": "Washington: KXLE Ellensburg, WA (WXN21)",
+     "streamURL": "http://kxleamfm.com:8000/kxlefm.aac",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Kittitas County. EAS CRITERIA: TOR, SVR, FFW, CAE, and RMT."
+     },
+     {
+     "name": "Washington: KITI Centralia, WA (WXM62)",
+     "streamURL": "http://65.19.131.159/premierbroadcasters-kitifmaac-32",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Lewis County. EAS CRITERIA: TOR, SVR, FFW, and RMT."
+     },
+     {
+     "name": "Washington: KBKW Aberdeen, WA (KXI27)",
+     "streamURL": "http://173.193.205.96:7000/stream",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Grays Harbor and Pacific. EAS CRITERIA: RMT and CAE."
+     },
+     {
+     "name": "Washington: KXXO Olympia, WA (WXM62)",
+     "streamURL": "http://ice10.securenetsystems.net:80/KXXO",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Mason and Thurston. EAS CRITERIA: RMT and CAE."
+     },
+     {
+     "name": "Washington: KNKX Tacoma, WA (KHB60)",
+     "streamURL": "http://icy1.abacast.com/kplu-newsjazzaac-64",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Island, Jefferson, King, Kitsap, Pierce, and Snohomish. EAS CRITERIA: RMT and CAE."
+     },
+     {
+     "name": "Washington: KIRO Seattle, WA (KHB60)",
+     "streamURL": "http://14533.live.streamtheworld.com/KIROAMAAC.aac",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Island, Jefferson, King, Kitsap, Pierce, and Snohomish. EAS CRITERIA: EAN and RMT."
+     },
+     {
+     "name": "Washington: KKXA Snohomish, WA (WWG24)",
+     "streamURL": "http://www.ophanim.net:9410/stream",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Clallam, Island, Jefferson, King, Kitsap, San Juan, Skagit, Snohomish, and Whatcom. EAS CRITERIA: TOR, SVR, FFW, FLW, and RMT."
+     },
+     {
+     "name": "Washington: KSQM Sequim, WA (WWG24)",
+     "streamURL": "http://ksqmfm.serverroom.us:8494/;",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Clallam, Island, Jefferson, King, Kitsap, San Juan, Skagit, Snohomish, and Whatcom. EAS CRITERIA: RMT."
+     },
+     {
+     "name": "Washington: KGMI Bellingham, WA (KAG93)",
+     "streamURL": "http://18573.live.streamtheworld.com/KGMIAMAAC_SC",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: San Juan, Skagit, and Whatcom. EAS CRITERIA: RMT."
+     },
+     {
+     "name": "Washington: KWSU Pullman, WA (WXK98/WXL86)",
+     "streamURL": "http://134.121.234.129:8000/NWPRNEWS",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Asotin, Columbia, Garfield, Spokane, and Whitman. COVERAGE IN IDAHO: Benewah, Clearwater, Idaho, Kootenai, Latah, Lewis, and Nez Perce. EAS CRITERIA: TOR, TOA, SVR, SVA, FFW, CAE, and SPW."
+     },
+     {
+     "name": "Washington: WXL86 Spokane, WA",
+     "streamURL": "http://wxradio.grimtech.net:8000/KE7NWL/Spokane.mp3",
+     "imageURL": "noaa.png",
+     "desc": "NOAA Weather Radio",
+     "longDesc": "COVERAGE IN WASHINGTON: Adams, Asotin, Chelan, Douglas, Ferry, Garfield, Grant, Lincoln, Okanogan, Pend Oreille, Spokane, Stevens, and Whitman. COVERAGE IN IDAHO: Benewah, Bonner, Boundary, Clearwater, Idado, Kootenai, Latah, Lewis, Nez Perce, and Shoshone. COVERAGE IN MONTANA: Lincoln and Sanders. EAS CRITERIA: TOR, TOA, SVR, SVA, FFW, and SPW."
+     },
+     {
+     "name": "Washington: KWWW (WXM48)",
+     "streamURL": "http://54.235.51.186/cherrycreek-kwwwfmmp3-imc4?session-id=4ea62e0b46bc453993043ab8474c9e52",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Chelan, Douglas, Grant, and Okanogan. EAS CRITERIA: TOR, TOA, SVR, SVA, FFW, CDW, CEM, DSW, HMW, EVI, TOE, LAE, CAE, and RMT."
+     },
+     {
+     "name": "Washington: KPQ (WXM48)",
+     "streamURL": "http://54.235.51.186/cherrycreek-kpqfmmp3-imc4?session-id=4ea62e0b46bc453993043ab8474c9e52",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Chelan, Douglas, Grant, and Okanogan. EAS CRITERIA: TOR, TOA, SVR, SVA, FFW, CDW, CEM, DSW, HMW, EVI, TOE, LAE, CAE, and RMT."
+     },
+     {
+     "name": "Washington: KZAL (WXM48)",
+     "streamURL": "http://54.235.51.186/icicle-kzalfmaac-ibc4?session-id=294566b6221baa31ae34ef23e82eafa3",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Chelan, Douglas, Grant, and Okanogan. EAS CRITERIA: TOR, SVR, FFW, CDW, CEM, HMW, EVI, TOE, LAE, CAE, and RMT."
+     },
+     {
+     "name": "Washington: KOHO (WXM48)",
+     "streamURL": "http://54.235.51.186/icicle-kohofmaac-ibc4?session-id=294566b6221baa31ae34ef23e82eafa3",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN WASHINGTON: Chelan, Douglas, Grant, and Okanogan. EAS CRITERIA: TOR, SVR, FFW, CDW, CEM, HMW, EVI, TOE, LAE, CAE, and RMT."
+     },
+     {
+     "name": "Oregon: KBND Bend, OR (WWF80)",
+     "streamURL": "http://ice10.securenetsystems.net:80/KBND",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN OREGON: Crook, Deschutes, and Jefferson. EAS CRITERIA: RMT's Only"
+     },
+     {
+     "name": "Oregon: KMSW The Dalles, OR (WXM34)",
+     "streamURL": "http://65.19.131.159/bicoastal-kmswfmaac-64?session-id=0975ba7e18ff39c8660832bbc636fda1",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN OREGON: Hood River, Sherman, and Wasco. COVERAGE IN WASHINGTON: Klicktat and Skamania. EAS CRITERIA: RMT's Only"
+     },
+     ]
+}
